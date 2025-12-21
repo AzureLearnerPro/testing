@@ -1,1 +1,7 @@
 need to write script
+
+trigger:
+ -main
+
+steps:
+ test echo "start build"
